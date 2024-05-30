@@ -1,3 +1,7 @@
+# Compute Riemann Sums for a given function on a given interval.
+# 30 May 2024
+# Author: 30 April 2024
+
 import math as m
 
 def safe_eval(expr, vars):
@@ -45,7 +49,7 @@ def calculate_riemann_sum(a, b, n, function, endpoint):
     return total_sum
 
 def main():
-    # Get user input for endpoints and number of rectangles
+    # Get user input for endpoints and the number of rectangles
     a = float(input("Enter the left endpoint: "))
     b = float(input("Enter the right endpoint: "))
     n = int(input("Enter the number of rectangles: "))
