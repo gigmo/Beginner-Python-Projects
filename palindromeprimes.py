@@ -1,6 +1,3 @@
-Here is the code with added comments and docstring descriptions for the functions:
-
-```python
 import sys
 
 # Set the recursion limit to a higher value to handle deep recursive calls
