@@ -1,6 +1,6 @@
 # Compute Riemann Sums for a given function on a given interval.
 # 30 May 2024
-# Author: 30 April 2024
+# Author: Kamo Mabale
 
 import math as m
 
